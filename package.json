@@ -1,0 +1,32 @@
+{
+  "name": "concat-image",
+  "version": "0.0.0",
+  "description": "Concat Images",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bencevans/concat-images.git"
+  },
+  "keywords": [
+    "concat",
+    "join",
+    "images",
+    "buffer"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/concat-images/issues"
+  },
+  "homepage": "https://github.com/bencevans/concat-images",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "async": "^0.8.0",
+    "canvas": "^1.1.3"
+  }
+}
