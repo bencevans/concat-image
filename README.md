@@ -1,4 +1,4 @@
-# concat-image
+# concat-image [![Build Status](https://travis-ci.org/bencevans/concat-image.svg?branch=master)](https://travis-ci.org/bencevans/concat-image)
 
 Concatenate images.
 
