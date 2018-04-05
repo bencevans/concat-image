@@ -16,6 +16,7 @@
     "images",
     "buffer"
   ],
+  "bin": "./bin.js",
   "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
   "license": "MIT",
   "bugs": {
