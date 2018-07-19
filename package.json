@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/bencevans/concat-images",
   "devDependencies": {
-    "mocha": "5.2.0"
+    "mocha": "5.2.0",
+    "semantic-release": "^15.8.1"
   },
   "dependencies": {
     "async": "^2.0.0",
