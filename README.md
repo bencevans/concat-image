@@ -6,6 +6,12 @@ Concatenate images.
 
 [node-canvas](https://github.com/LearnBoost/node-canvas)'s dependency of Cairo is required.
 
+On Ubuntu 16.04 LTS this can be done by running the following.
+
+    sudo apt install libcairo2-dev libjpeg-dev libgif-dev 
+
+Then install the node module by running the following.
+
     npm install --save concat-image
 
 ## Usage
@@ -26,3 +32,7 @@ concat({
   fs.writeFileSync('./123.png', canvas.toBuffer());
 });
 ```
+
+### Licence
+
+MIT
