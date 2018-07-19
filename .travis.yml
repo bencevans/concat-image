@@ -5,3 +5,5 @@ before_install:
 node_js:
 - '8'
 - '9'
+after_success:
+- npm run semantic-release
